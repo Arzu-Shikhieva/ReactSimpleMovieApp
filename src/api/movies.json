@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "name": "Suits (2011) ",
+      "overview": "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+      "id": 17
+    },
+    {
+      "name": "Friends (1994) ",
+      "overview": "The misadventures of a group of friends as they navigate the pitfalls of work, life and love in Manhattan.",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+      "id": 18
+    },
+    {
+      "name": "Silicon Valley (2014)",
+      "rating": "9",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a154rIMzbTyefodNp4NY8qjOEfC.jpg",
+      "overview": "In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. Partially inspired by Mike Judge’s own experiences as a Silicon Valley engineer in the late ‘80s, Silicon Valley is an American sitcom that centers around six programmers who are living together and trying to make it big in the Silicon Valley.\n\n",
+      "id": 19
+    },
+    {
+      "name": "Twilight (2008)",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.\n\n",
+      "id": 20
+    },
+    {
+      "name": "The Twilight Saga: Eclipse (2010)",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sOpCY4by0bkEu9LbVXVCOpWWKzF.jpg",
+      "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.\n\n",
+      "id": 21
+    },
+    {
+      "name": "The Twilight Saga: New Moon (2009)",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j5jM5pq78ObAXX1WhTsb115EkLl.jpg",
+      "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.\n\n",
+      "id": 22
+    },
+    {
+      "name": "The Twilight Saga: Breaking Dawn - Part 1 (2011)",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dSSzv6JrlwS48pBeTNSswLJXOYF.jpg",
+      "overview": "The new found married bliss of Bella Swan and vampire Edward Cullen is cut short when a series of betrayals and misfortunes threatens to destroy their world.\n\n",
+      "id": 23
+    },
+    {
+      "name": "The Twilight Saga: Breaking Dawn - Part 2 (2012)",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jHE7WUf3FDod8vw3O3twh0JVZun.jpg",
+      "overview": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.\n\n",
+      "id": 24
+    }
+  ]
+}
